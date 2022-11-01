@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Futura';
+    src: url('Futura-Light.eot');
+    src: url('Futura-Light.eot?#iefix') format('embedded-opentype'),
+        url('Futura-Light.woff2') format('woff2'),
+        url('Futura-Light.woff') format('woff'),
+        url('Futura-Light.ttf') format('truetype'),
+        url('Futura-Light.svg#Futura-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+body{
+    font-family: Futura, sans-serif;
+}
